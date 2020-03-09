@@ -1,7 +1,8 @@
 ---
 title: Resource Efficient 3D Convolutional Neural Networks (ICCV 2019)
 ---
-## Paper Review: Resource Efficient 3D Convolutional Neural Networks (ICCV 2019)
+
+### Paper Review: Resource Efficient 3D Convolutional Neural Networks (ICCV 2019)
 
  이 블로그의 첫 공식 포스트입니다. 저는 현재 POSTECH 전자전기공학과 EPIC(Embedded Processor & Intelligent Computing) 랩에서
  'Optimization of 3D CNN'이라는 주제로 두 달째 연구 참여 중입니다. 구체적으로는 light한 보드 위에서 action recognition이 
