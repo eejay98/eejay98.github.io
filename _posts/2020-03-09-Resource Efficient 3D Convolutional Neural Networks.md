@@ -1,5 +1,5 @@
 ---
-title: Resource Efficient 3D Convolutional Neural Networks
+title: Resource Efficient 3D Convolutional Neural Networks (ICCV 2019)
 ---
 ## Paper Review: Resource Efficient 3D Convolutional Neural Networks (ICCV 2019)
 
