@@ -48,10 +48,18 @@ h1, h2, h3, h4, h5, h6,
     -webkit-backdrop-filter: blur(16px);
 }
 
-.inline-badge {
+/* .inline-badge {
     height: 16px;
     vertical-align: -10%;
     margin-right: 2px;
+    line-break: unset;
+} */
+
+.inline-badge {
+    height: 32px !important;
+    width: auto !important;
+    vertical-align: middle;
+    margin-right: 6px !important;
     line-break: unset;
 }
 
