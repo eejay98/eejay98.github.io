@@ -23,7 +23,7 @@ authors:
   - Hyong-Euk Lee
   - Youngjoo Lee#
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/11214069
+  Paper: https://ieeexplore.ieee.org/abstract/document/11377941
 #  Code: https://github.com/luost26/academic-homepage
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
