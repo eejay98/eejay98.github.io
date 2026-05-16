@@ -22,8 +22,8 @@ linkedin: jaehee-kim-3a1755398
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in the Department of Electrical Engineering at POSTECH, supervised by Prof. Youngjoo Lee. 
-    Currently, I am also a visiting researcher at the University of Michigan, Ann Arbor, working with Prof. Zhengya Zhang.
+    I am a Ph.D. student in the Department of Electrical Engineering at POSTECH, supervised by <a href="https://sites.google.com/view/epiclab/member/yjlee?authuser=0" target="_blank">Prof. Youngjoo Lee</a>. 
+    Currently, I am also a visiting researcher at the University of Michigan, Ann Arbor, working with <a href="https://zhang.engin.umich.edu/biography/" target="_blank">Prof. Zhengya Zhang</a>.
   </p>
   <p>
     My research interests lie in the digital hardware design for Forward Error Correction (FEC) and Quantum Error Correction (QEC) systems.
@@ -50,11 +50,11 @@ experience:
   logo: /assets/images/badges/logo_umich.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
-    Visiting Researcher (Host:Prof. Zhengya Zhang)
+    Visiting Researcher (Host:<a href="https://zhang.engin.umich.edu/biography/" target="_blank">Prof. Zhengya Zhang</a>, IEEE Fellow)
   date: Mar. 2026 - Aug. 2026
 
 awards:
-- name: Overseas Dispatch Support Program for Graduate Students ($7,500), POSTECH
+- name: Overseas Dispatch Support Program ($7,500), POSTECH
   date: Mar. 2026
 - name: IEEE CASS Student Travel Grant, IEEE ISICAS 2025
   date: Oct. 2025
@@ -64,6 +64,6 @@ awards:
   date: May 2024
 - name: Residential College Advisor Scholarship, POSTECH
   date: Aug. 2019 – Dec. 2020
-- name: National Excellence Scholarship (Science & Engineering), Korea Student Aid Foundation
+- name: National Excellence Scholarship, Korea Student Aid Foundation
   date: Feb. 2017 – Dec. 2020
 
