@@ -5,7 +5,7 @@ navbar_name: "Jaehee Kim"
 positions:
 - name: Ph.D. Student
 - name: POSTECH
-- logo: /assets/images/badges/logo_postech.png  # Logo is optional
+  logo: /assets/images/badges/logo_postech.png  # Logo is optional
 
 
 email: "jayjay@postech.ac.kr"
