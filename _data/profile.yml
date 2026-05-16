@@ -1,22 +1,22 @@
-primary_name: "Your Name"
+primary_name: "Jaehee Kim"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jaehee Kim"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Visiting Researcher
+- name: University of Michigan, Ann Arbor
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "jayjay@postech.ac.kr"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: 3yqlGckAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: eejay98
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: jaehee-kim-3a1755398
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
