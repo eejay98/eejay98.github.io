@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Jaehee Kim"
 
 positions:
-- name: Visiting Researcher
-- name: University of Michigan, Ann Arbor
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Student
+- name: POSTECH
+- logo: /assets/images/badges/logo_postech.png  # Logo is optional
 
 
 email: "jayjay@postech.ac.kr"
@@ -22,12 +22,15 @@ linkedin: jaehee-kim-3a1755398
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    # A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Ph.D. student in the Department of Electrical Engineering at POSTECH, supervised by Prof. Youngjoo Lee. 
+    Currently, I am also a visiting researcher at the University of Michigan, Ann Arbor, working with Prof. Zhengya Zhang.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    # There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
+    # and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
+    # as well as being common in domestic longhair and domestic shorthair cats.
+    My research interests lie in the digital hardware design for Forward Error Correction (FEC) and Quantum Error Correction (QEC) systems.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,22 +38,22 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: POSTECH
+  logo: /assets/images/badges/logo_postech.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Electrical Engineering <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2022 - present
+- name: POSTECH
+  logo: /assets/images/badges/logo_postech.png
+  position: B.S. in Electrical Engineering
+  date: Feb. 2017 - Aug. 2022
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: University of Michigan, Ann Arbor
+  logo: /assets/images/badges/logo_umich.png
+  position: Visiting Researcher (Host: Prof. Zhengya Zhang)
+  date: Mar. 2026 - Aug. 2026
 
 awards:
 - name: Award Name 2
