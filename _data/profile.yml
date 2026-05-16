@@ -38,23 +38,32 @@ education:
   logo: /assets/images/badges/logo_postech.png
   position: >- 
     Department of Electrical Engineering <br/>
-    Ph.D. Student
+    Ph.D. Student (GPA":" 4.02/4.30)
   date: Sep. 2022 - present
 - name: POSTECH
   logo: /assets/images/badges/logo_postech.png
-  position: B.S. in Electrical Engineering
+  position: B.S. in Electrical Engineering (Cum Laude)
   date: Feb. 2017 - Aug. 2022
 
 experience:
 - name: University of Michigan, Ann Arbor
   logo: /assets/images/badges/logo_umich.png
-  position: "Visiting Researcher (Host: Prof. Zhengya Zhang)"
+  position: >- 
+    Department of Electrical Engineering and Computer Science <br/>
+    Visiting Researcher (Host":" Prof. Zhengya Zhang)
   date: Mar. 2026 - Aug. 2026
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Overseas Dispatch Support Program for Graduate Students ($7,500), POSTECH
+  date: Mar. 2026
+- name: IEEE CASS Student Travel Grant, IEEE ISICAS 2025
+  date: Oct. 2025
+- name: Best Live Demo Award (Silver Tier), IEEE APCCAS 2025
+  date: Oct. 2025
+- name: IEEE CASS Student Travel Grant, IEEE ISCAS 2024
+  date: May 2024
+- name: Residential College Advisor Scholarship, POSTECH
+  date: Aug. 2019 – Dec. 2020
+- name: National Excellence Scholarship (Science & Engineering), Korea Student Aid Foundation
+  date: Feb. 2017 – Dec. 2020
+
