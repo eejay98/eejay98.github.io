@@ -4,7 +4,7 @@ navbar_name: "Jaehee Kim"
 
 positions:
 - name: Ph.D. Student
-- name: POSTECH
+- name: POSTECH EE
   logo: /assets/images/badges/logo_postech.png  # Logo is optional
 
 
@@ -38,7 +38,7 @@ education:
   logo: /assets/images/badges/logo_postech.png
   position: >- 
     Department of Electrical Engineering <br/>
-    Ph.D. Student (GPA":" 4.02/4.30)
+    Ph.D. Student (GPA:4.02/4.30)
   date: Sep. 2022 - present
 - name: POSTECH
   logo: /assets/images/badges/logo_postech.png
@@ -50,7 +50,7 @@ experience:
   logo: /assets/images/badges/logo_umich.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
-    Visiting Researcher (Host":" Prof. Zhengya Zhang)
+    Visiting Researcher (Host:Prof. Zhengya Zhang)
   date: Mar. 2026 - Aug. 2026
 
 awards:
