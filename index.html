@@ -4,6 +4,19 @@ title : Homepage
 navbar_title: Home
 ---
 
+<style>
+  .text-profile-position img,
+  .inline-badge,
+  img[src*="logo"],
+  img[alt="Logo"] {
+    height: 35px !important;
+    width: auto !important;
+    vertical-align: middle !important;
+    margin-right: 8px !important;
+    display: inline-block !important;
+  }
+</style>
+
 <div class="row">
     <div class="col-lg-3 col-md-4">
         {% include widgets/profile_card_mini.html %}
@@ -37,14 +50,3 @@ navbar_title: Home
         {% endif %}
     </div>
 </div>
-
-<style>
-  .text-profile-position img, 
-  .inline-badge {
-    height: 35px !important;
-    width: auto !important;
-    vertical-align: middle !important;
-    margin-right: 8px !important;
-    display: inline-block !important;
-  }
-</style>
