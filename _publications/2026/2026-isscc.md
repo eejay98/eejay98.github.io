@@ -16,7 +16,7 @@ authors:
   - Wei Tang
   - Jaehee Kim
   - Youngjoo Lee
-  - Zhengya Zhang#
+  - Zhengya Zhang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11409261
 #  Code: https://github.com/luost26/academic-homepage
