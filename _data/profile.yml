@@ -50,8 +50,14 @@ experience:
   logo: /assets/images/badges/logo_umich.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
-    Visiting Researcher (Host:<a href="https://zhang.engin.umich.edu/biography/" target="_blank">Prof. Zhengya Zhang</a>, IEEE Fellow)
+    Visiting Researcher (Advisor:<a href="https://zhang.engin.umich.edu/biography/" target="_blank">Prof. Zhengya Zhang</a>, IEEE Fellow)
   date: Mar. 2026 - Aug. 2026
+- name: POSTECH
+  logo: /assets/images/badges/logo_postech.png
+  position: >- 
+    Department of Electrical Engineering <br/>
+    Undergraduate Researcher (Advisor:Prof. Youngjoo Lee)
+  date: Dec. 2019 - Apr. 2021
 
 awards:
 - name: Overseas Dispatch Support Program ($7,500), POSTECH
