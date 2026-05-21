@@ -16,7 +16,7 @@ authors:
   - Chanhee Lee*
   - Jaewha Kim
   - Nam-Il Kim
-  - Youngjoo Lee#
+  - Youngjoo Lee
 links:
 #  Paper: https://ieeexplore.ieee.org/abstract/document/11409261
 #  Code: https://github.com/luost26/academic-homepage
