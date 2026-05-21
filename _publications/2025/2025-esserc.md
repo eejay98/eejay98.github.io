@@ -17,8 +17,8 @@ authors:
   - Jung Gyu Min*
   - Jeonghoon Son
   - Jaehee Kim
-  - Youngjoo Lee#
-  - Seyoung Kim#
+  - Youngjoo Lee
+  - Seyoung Kim
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11214069
 #  Code: https://github.com/luost26/academic-homepage
