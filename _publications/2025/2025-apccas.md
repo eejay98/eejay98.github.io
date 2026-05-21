@@ -21,7 +21,7 @@ authors:
   - Pilsu Kim
   - Jaehyung Yoo
   - Hyong-Euk Lee
-  - Youngjoo Lee#
+  - Youngjoo Lee
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11377941
 #  Code: https://github.com/luost26/academic-homepage
