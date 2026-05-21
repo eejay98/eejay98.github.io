@@ -18,7 +18,7 @@ authors:
   - Byeong Yong Kong
   - Mijung Kim
   - Young-Seok Kim
-  - Youngjoo Lee#
+  - Youngjoo Lee
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10557942
 #  Code: https://github.com/luost26/academic-homepage
