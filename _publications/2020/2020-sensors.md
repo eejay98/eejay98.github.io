@@ -16,7 +16,7 @@ authors:
   - Jaehee Kim
   - Young-Seok Kim
   - Mijung Kim
-  - Youngjoo Lee#
+  - Youngjoo Lee
 links:
   Paper: https://www.mdpi.com/1424-8220/20/21/6004
 #  Code: https://github.com/luost26/academic-homepage
