@@ -533,3 +533,9 @@ body.theme-luka .news-card p {
   margin: 0 0 8px;
 }
 
+body.theme-luka .nav-left {
+  display: flex;
+  gap: 22px;
+  align-items: center;
+}
+
