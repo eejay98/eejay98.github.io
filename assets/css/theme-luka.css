@@ -548,3 +548,11 @@ body.theme-luka .section-title-link {
 body.theme-luka .section-title-link a {
   font-weight: 500;
 }
+
+body.theme-luka #education .experience-item {
+  margin-bottom: 16px;
+}
+
+body.theme-luka #education .experience-item:last-child {
+  margin-bottom: 0;
+}
