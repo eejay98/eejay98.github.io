@@ -525,3 +525,11 @@ body.theme-luka strong {
     font-size: 13px;
   }
 }
+
+body.theme-luka .news-card p {
+  font-size: 14px;
+  color: var(--luka-secondary);
+  line-height: 1.65;
+  margin: 0 0 8px;
+}
+
