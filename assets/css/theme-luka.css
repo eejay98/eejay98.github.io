@@ -539,3 +539,12 @@ body.theme-luka .nav-left {
   align-items: center;
 }
 
+body.theme-luka .section-title-link {
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 6px;
+}
+
+body.theme-luka .section-title-link a {
+  font-weight: 500;
+}
